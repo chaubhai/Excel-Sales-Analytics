@@ -10,4 +10,7 @@
 
 ## Finance Report:
 **Project Objective:**  
-**1.** Create Profit and Loss (P & L) reports by _[Fiscal Year](https://github.com/chaubhai/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months]()_
+**1.** Create Profit and Loss (P & L) reports by _[Fiscal Year](https://github.com/chaubhai/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/chaubhai/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Years%2C%20Quarters%2C%20and%20Months.pdf)_.  
+**2.** Create Profit and Loss (P & L) report by _[Markets]()_.  
+
+
